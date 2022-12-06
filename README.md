@@ -66,8 +66,8 @@ public class Main {
 ```
 
 1. First, we create the `AbstractFactory` that it is responsible of creating nodes. 
-A concrete implementation of this interface must be provided by yourselves. On section 
-XXX, we will have a look on the basic implementation for this example, in the class `Factory`.
+A concrete implementation of this interface must be provided by yourselves. On the next section,
+we will have a look on the basic implementation for this example, in the class `Factory`.
 
 2. Next, we create a `ExpressionBuilder` passing our `Factory` to it.
 
